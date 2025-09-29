@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm an accomplished IT Planner with over 9 years of experience spanning software services and fintech banking. My career journey has progressed from Junior Software Executive to Product Lead, and now into strategic IT planning.
+
+I have successfully designed and implemented end-to-end mobile banking solutions, backend platforms, and USSD integrations for telecom operators. My expertise extends to national switch API (LMPS) integrations, WeChat payment onboarding, and DevOps engineering with Kubernetes and modern CI/CD pipelines.
+
+Beyond development, I have contributed to process efficiency through Redmine plugin development, as well as leading cross-functional teams in delivering secure, scalable, and customer-centric banking technologies.
+
+With a strong foundation in software engineering and an M.Tech degree, I continues to bridge technology and business needs, enabling digital transformation within the financial sector.
+
 <!--
 **durganageswararao-bandi/durganageswararao-bandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
